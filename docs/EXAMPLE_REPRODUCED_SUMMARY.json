@@ -1,0 +1,18 @@
+{
+  "study_count": 24,
+  "endpoint_records": 1159,
+  "screened_study_pairs": 276,
+  "screened_pairs_with_confirmed_statistic_match": 15,
+  "priority_pairs_reviewed": 15,
+  "repeat_groups": 32,
+  "repeat_cv_median_percent": 3.9298888318581207,
+  "repeat_cv_median_excluding_Wan_Ishak_percent": 3.9232985556051565,
+  "stage_unresolved_records": 459,
+  "frozen_oof_predictions_from_archived_metadata": 114,
+  "frozen_fitted_groups_with_zero_span": 12,
+  "pooled_rf_mae_nm_archived": 40.944612050960714,
+  "pooled_train_mean_mae_nm_archived": 45.70857699805068,
+  "delta_mae_mean_minus_rf_nm": 4.763964947089967,
+  "model_refit_status": "MODEL_REFIT_NOT_REPRODUCED",
+  "frozen_oof_metrics_status": "SUMMARY_CONSISTENCY_CHECK_ONLY"
+}

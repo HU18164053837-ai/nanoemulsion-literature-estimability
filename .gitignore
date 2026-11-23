@@ -1,0 +1,16 @@
+# Do not commit raw extracted records, publisher full texts, or credentials
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+outputs/
+private/
+restricted/
+raw_sources/
+author_replay/
+*.nb_checkpoints/
+.env
+.env.*
+*.key
+*.pem
+*.p12

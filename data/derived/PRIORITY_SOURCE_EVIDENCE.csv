@@ -1,0 +1,7 @@
+source,stage,feature_and_basis,locator
+NEW001,Day 0 and day 7 rows; frozen OOF uses day 0,"Total-formulation oil mass fraction 0.05, constant; PIC ratios vary",10.1016/j.heliyon.2023.e16967 Table 1; frozen S1 features
+NEW008,Table 4 design responses; age unresolved. Separate stability figures document day 1 and day 30,Oil mass fraction 0.01204–0.06642 across ten frozen coordinates; sonication 5 min where present,"10.3390/polym18091012 §3.7 Table 4, §3.9 Figures 9–12; frozen S1 features"
+P5S04,Post-preparation record labelled initial; age alignment requires protocol evidence,Aqueous volume 75–85 mL; oil-surfactant 1–2% with unresolved conversion basis; sonication 5–10 min,10.3390/ph19081264 Table 3 and Methods; merged source record
+P5S09,Characterization; Table 1 age unresolved,"Oil and solubilizer fractions within dispersed phase, 0–1 for each oil; oil plus solubilizer fixed at 8% v/v of product",10.1080/10837450.2019.1578372 Table 1 and Methods; merged source record
+P5S10,Post-preparation characterization; exact age unresolved,"Olive oil 20–70%, Span 80 5–50%, Labrasol 0–25%; nominal w/w entries exceed 100% in some runs",10.22159/ajpcr.2022.v15i9.45964 Table 1; merged source record
+P5S12,Post-solvent removal; exact age unresolved,Fixed reported formulation; evaporation 5–15 min and 10–90 rpm,10.1007/s10068-019-00675-9 Table 1 and Methods; merged source record

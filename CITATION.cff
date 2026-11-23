@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the associated study after its bibliographic record is available; until then cite this data release by version."
+title: "Compatibility, run-level variation and cross-study estimability in literature-derived nanoemulsion formulation data"
+version: 0.1.0
+date-released: 2026-11-23
+repository-code: "https://github.com/HU18164053837-ai/nanoemulsion-literature-estimability"
+authors:
+  - family-names: Hu
+    given-names: Yi
+  - family-names: Li
+    given-names: Jiayao
+  - family-names: Jia
+    given-names: Yiheng

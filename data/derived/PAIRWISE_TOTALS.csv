@@ -1,0 +1,7 @@
+gate,denominator,PASS,FAIL,UNKNOWN
+numeric_size,276,276,0,0
+statistic,276,15,13,248
+stage,276,1,0,275
+shared_input,276,1,0,275
+input_variation,276,0,1,275
+train_test_support,276,0,1,275
